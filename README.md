@@ -2,7 +2,7 @@
 
 [Instructions](#instructions)<br />
 
-Please fork the repository, make the changes in your fork and include tests. Once you're done making changes, send in a pull request.
+Clone the repo and push up your changes and share link.
 
 Using Protractor or WebDriverIO
 Bonus points for leveraging a BDD tool.
