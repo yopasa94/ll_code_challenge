@@ -1,6 +1,9 @@
 # ll_code_challenge
 
 [Instructions](#instructions)<br />
+
+Please fork the repository, make the changes in your fork and include tests. Once you're done making changes, send in a pull request.
+
 Using Protractor or WebDriverIO
 Bonus points for leveraging a BDD tool.
 
