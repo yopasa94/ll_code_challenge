@@ -8,7 +8,7 @@ Using Protractor or WebDriverIO
 Bonus points for leveraging a BDD tool.
 
 Fork this Repo<br />
-Create a branch and name it with your "firstname_lastname_LL_challenge"<br />
+Create a branch and name it with your "{firstname_lastname}_LL_challenge"<br />
 Make sure to update your README to show how to run your scripts<br />
 Fulfill the following two scenarios<br />
 Once complete push your branch up
