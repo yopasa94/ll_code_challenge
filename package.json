@@ -1,0 +1,37 @@
+{
+  "name": "ll_code_challenge",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "ll_code_challenge",
+  "homepage": "https://github.com/yopasa94/ll_code_challenge.git",
+  "keywords": [
+    "protractor",
+    "cucumber",
+    "typescript"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "tsc && protractor typeScript/config/config.js",
+    "webdriver-update": "webdriver-manager update",
+    "webdriver-start": "webdriver-manager start -sessionTimeout 31536000"
+  },
+  "author": "Silvio Yopasa <yopasa94@gmail.com>",
+  "dependencies": {
+    "@types/cucumber": "^4.0.4",
+    "@types/node": "^10.7.1",
+    "@types/selenium-webdriver": "^4.0.0-alpha.5",
+    "all-contributors-cli": "^6.1.0",
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "cucumber": "^5.0.3",
+    "cucumber-html-reporter": "^4.0.3",
+    "mkdirp": "^0.5.1",
+    "protractor": "^5.4.2",
+    "protractor-cucumber-framework": "^6.1.1",
+    "rimraf": "^2.6.2",
+    "ts-node": "^8.0.2",
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.4"
+  }
+}
